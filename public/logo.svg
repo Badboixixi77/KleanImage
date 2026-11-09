@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 90" width="280" height="90">
+  <!-- CMYK circles -->
+  <circle cx="30" cy="45" r="22" fill="#FFE600" opacity="0.9"/>
+  <circle cx="50" cy="45" r="22" fill="#00AEEF" opacity="0.85"/>
+  <circle cx="40" cy="62" r="22" fill="#E91E8C" opacity="0.85"/>
+  <!-- Camera frame bracket -->
+  <path d="M12 18 L12 10 L20 10" fill="none" stroke="#1A1A1A" stroke-width="3" stroke-linecap="round"/>
+  <path d="M68 18 L68 10 L60 10" fill="none" stroke="#1A1A1A" stroke-width="3" stroke-linecap="round"/>
+  <path d="M12 72 L12 80 L20 80" fill="none" stroke="#1A1A1A" stroke-width="3" stroke-linecap="round"/>
+  <path d="M68 72 L68 80 L60 80" fill="none" stroke="#1A1A1A" stroke-width="3" stroke-linecap="round"/>
+  <!-- KLEAN -->
+  <text x="82" y="52" font-family="Montserrat, Arial, sans-serif" font-size="28" font-weight="900" fill="#1A1A1A" letter-spacing="-0.5">KLEAN</text>
+  <!-- IMAGE -->
+  <text x="82" y="52" font-family="Montserrat, Arial, sans-serif" font-size="28" font-weight="900" fill="#E91E8C" letter-spacing="-0.5" dx="98">IMAGE</text>
+  <!-- Tagline -->
+  <text x="82" y="68" font-family="Montserrat, Arial, sans-serif" font-size="9" font-weight="500" fill="#1A1A1A" letter-spacing="2">CREATIVE • PRINTING • SOLUTIONS</text>
+</svg>
